@@ -1,0 +1,31 @@
+repo_name: vladdou/myBackup
+report_id: 7b6465eac54b760aa80308a58c88661d
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-26T05:33:43+00:00'
+requested_by: arsenyzinchenko
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/vladdou/myBackup
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/vladdou/myBackup
+  detection_source: Repo Metadata
